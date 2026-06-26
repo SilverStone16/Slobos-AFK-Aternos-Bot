@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "SilverStones16.aternos.me",
+    "ip": "SilverStones16.aternos.me:61700",
     "port": 61700,
     "version": "",
     "try-creative": false
